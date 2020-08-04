@@ -1,10 +1,15 @@
 {
-  "nextId": 2,
+  "nextId": 3,
   "accounts": [
     {
       "id": 1,
-      "name": "André Luiz",
-      "balance": 900
+      "name": "Emerson",
+      "balance": 36558
+    },
+    {
+      "id": 2,
+      "name": "Ederson Corinthians",
+      "balance": 685.78
     }
   ]
 }
