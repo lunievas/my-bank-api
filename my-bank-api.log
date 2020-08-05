@@ -116,3 +116,15 @@
 2020-08-04T22:46:16.492Z [my-bank-api] info: API started! :D
 2020-08-04T22:47:16.869Z [my-bank-api] info: PUT /account - {"id":1,"name":"Emerson","balance":36558}
 2020-08-04T22:47:25.033Z [my-bank-api] error: PUT /account - Id, Name e Balance são obrigatórios
+2020-08-04T23:34:05.083Z [my-bank-api] info: API started! :D
+2020-08-04T23:34:41.183Z [my-bank-api] info: API started! :D
+2020-08-04T23:34:48.145Z [my-bank-api] info: API started! :D
+2020-08-04T23:34:50.676Z [my-bank-api] info: API started! :D
+2020-08-04T23:36:26.729Z [my-bank-api] info: GET /account
+2020-08-05T00:31:14.615Z [my-bank-api] info: API started! :D
+2020-08-05T00:31:26.843Z [my-bank-api] info: GET /account
+2020-08-05T00:33:41.277Z [my-bank-api] info: API started! :D
+2020-08-05T00:33:49.394Z [my-bank-api] info: GET /account
+2020-08-05T00:34:32.047Z [my-bank-api] info: API started! :D
+2020-08-05T00:35:42.977Z [my-bank-api] info: API started! :D
+2020-08-05T00:35:46.626Z [my-bank-api] info: API started! :D
